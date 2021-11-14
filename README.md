@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ErnestoEverhard
-- Using this to store powershell/bash repoos
+- Using this to store powershell/bash repos
 
 <!---
 ErnestoEverhard/ErnestoEverhard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
